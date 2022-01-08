@@ -4,7 +4,8 @@ Customer churn has a big impact on your revenue It is generally thought to cost 
 
 1) Telco customer churn: Logistic_Regression
 
-2) Bank customer churn: Exploratory Data Analysis 
+2) Bank customer churn: Exploratory Data Analysis   
+
 Selected six classifiers: 
 * Logistic Regression
 * Support Vector Classifier
