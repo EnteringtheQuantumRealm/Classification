@@ -6,6 +6,6 @@
 
 2-1.  **Bank Churn** - EDA, Logistic Regression, Support Vector Classifier, Random Forest Classifier, Gradient Boosting Classifier, Xtreme Gradient Boosting Classifier, Light Gradient Boosting Machine 
 
-2-2. **Telco Churn** - Logistic Regression  
+2-2. **Telco Churn** - Logistic Regression 
 
 3. **Proper Drug** - Decision Tree 
