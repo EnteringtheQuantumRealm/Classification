@@ -10,4 +10,4 @@
    2-2. **Telco Churn** - Logistic Regression 
 
 
-3. **Proper Drug** - Decision Tree 
+3. **Proper Drug Decision** - Decision Tree 
