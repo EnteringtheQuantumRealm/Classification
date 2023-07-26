@@ -10,4 +10,6 @@
    2-2. **Telco Churn** - Logistic Regression 
 
 
-3. **Proper Drug Decision** - Decision Tree 
+3. **Proper Drug Decision** - Decision Tree
+
+4. **Multi-Class Classification** -- Multi-class classification problems through the classic MNIST dataset (image classification with machine learning). Create a deep neural network that performs multi-class classification. Tune the deep neural network.
